@@ -25,3 +25,6 @@
 - ### 🔗 Desafio 02
 
 - Exercício Java #02 - [descrição](link)
+
+## 📝 SItes Importantes
+* Java Basico: [link](https://glysns.gitbook.io/java-basico/)
