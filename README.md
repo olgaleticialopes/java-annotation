@@ -11,7 +11,7 @@
 ## 📝 Anotações Importantes
 
 * Anotações do modulo 1, Principios do desenvolvimento de software: [nota.md](https://github.com/olgaleticialopes/java/tree/main/modulo_o1/vercionamento_git_github#readme)
-* Anotações do modulo 2, Conhecendo a linguagem Java: [nota.md]()
+* Anotações do modulo 2, Conhecendo a linguagem Java: [nota.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02)
 * Anotações do modulo 3, Resolvendo os primeiros desafios de codigo: [nota.md]()
 * Anotações do modulo 4, POO em Java: [nota.md]()
 * Anotações do modulo 5, Praticando abstração no domínio bancario: [nota.md]()
