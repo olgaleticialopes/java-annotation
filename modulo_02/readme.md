@@ -14,8 +14,7 @@
 
 ## 📌 Sintaxe:
 
-* Anatomia de classes
-* Padrão de nomencladuras
+* Anatomia de classes [notas.md] (https://github.com/olgaleticialopes/java/tree/main/modulo_02/Anatomia_classe)
 * Variaveis
 * Operadores
 * Metodos
