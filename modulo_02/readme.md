@@ -14,7 +14,7 @@
 
 ## 📌 Sintaxe:
 
-* Anatomia de classes [notas.md] (https://github.com/olgaleticialopes/java/tree/main/modulo_02/Anatomia_classe)
+* Anatomia de classes [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/Anatomia_classe)
 * Variaveis
 * Operadores
 * Metodos
