@@ -14,12 +14,12 @@
 
 ## 📌 Sintaxe:
 
-* Anatomia de classes [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/Anatomia_classe)
-* Variaveis [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/tipos_e_variaveis)
-* Operadores [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/operadores)
-* Metodos [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/metodos)
-* Escopo [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/escopo/)
-* Palavras reservadas [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/palavras_reservadas)
-* Documentação [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/documentação)
-* Terminal e argumentos [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/terminal_argumentos)
+* Anatomia de classes [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/sintaxe/Anatomia_classe)
+* Variaveis [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/sintaxe/tipos_e_variaveis)
+* Operadores [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/sintaxe/operadores)
+* Metodos [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/sintaxe/metodos)
+* Escopo [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/sintaxe/escopo/)
+* Palavras reservadas [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/sintaxe/palavras_reservadas)
+* Documentação [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/sintaxe/documentação)
+* Terminal e argumentos [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/sintaxe/terminal_argumentos)
 
