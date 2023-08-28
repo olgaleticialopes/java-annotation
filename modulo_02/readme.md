@@ -15,27 +15,11 @@
 ## 📌 Sintaxe:
 
 * Anatomia de classes [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/Anatomia_classe)
-* Variaveis
-* Operadores
-* Metodos
+* Variaveis [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/tipos_e_variaveis)
+* Operadores [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/operadores)
+* Metodos [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/metodos)
 * Escopo
 * Palavras reservadas
 * Documentação
 * Terminal e argumentos
 
-
-## 📌 Tipos e variaveis
-
-* Numeros inteiros e decimais
-* Tipos logicos 
-* Caracteres 
-* Objetos
-* Diferença entre variavel e constante.
-
-## 📌 Operadores
-
-* Operadores aritmeticos
-* Operadores logicos
-* Operadores uniaros
-* Operadores relacionais
-* Operadores ternarios
