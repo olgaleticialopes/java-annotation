@@ -22,7 +22,7 @@
 
 ### 🔗 Desafio 01
 
-- Exercício Java #01 - [SmartTV](link)
+- Exercício Java #01 - [SmartTV](https://github.com/olgaleticialopes/java/tree/main/modulo_02/metodos/metodos02/SmartTV)
 
 - ### 🔗 Desafio 02
 
