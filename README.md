@@ -26,7 +26,7 @@
 
 - ### 🔗 Exercicios 02
 
-- Exercício Java #02 - [descrição](link)
+- Exercício Java #02 - [Simulação de conta via terminal](https://github.com/olgaleticialopes/java/tree/main/modulo_02/simulando_conta/simular-conta/src)
 
 ## 📝 SItes Importantes
 * Java Basico: [link](https://glysns.gitbook.io/java-basico/)
