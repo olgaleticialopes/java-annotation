@@ -22,7 +22,7 @@
 
 ### 🔗 Desafio 01
 
-- Exercício Java #01 - [descrição](link)
+- Exercício Java #01 - [SmartTV](link)
 
 - ### 🔗 Desafio 02
 

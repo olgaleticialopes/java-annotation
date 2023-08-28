@@ -25,5 +25,18 @@
 * Terminal e argumentos
 
 
+## 📌 Tipos e variaveis
 
-<br>
+* Numeros inteiros e decimais
+* Tipos logicos 
+* Caracteres 
+* Objetos
+* Diferença entre variavel e constante.
+
+## 📌 Operadores
+
+* Operadores aritmeticos
+* Operadores logicos
+* Operadores uniaros
+* Operadores relacionais
+* Operadores ternarios
