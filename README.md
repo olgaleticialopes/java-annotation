@@ -18,13 +18,13 @@
 * Anotações do modulo 6, Primeirros passos em SQL e NOSQL: [nota.md]()
 * Anotações do modulo 7, Ganhando produtividade com spring framework e Java: [nota.md]()
 
-## 🤖 Lista de Desafios
+## 🤖 Lista de Exercicios
 
-### 🔗 Desafio 01
+### 🔗 Exercicios 01
 
 - Exercício Java #01 - [SmartTV](https://github.com/olgaleticialopes/java/tree/main/modulo_02/metodos/metodos02/SmartTV)
 
-- ### 🔗 Desafio 02
+- ### 🔗 Exercicios 02
 
 - Exercício Java #02 - [descrição](link)
 
