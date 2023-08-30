@@ -23,3 +23,9 @@
 * Documentação [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/sintaxe/documentação)
 * Terminal e argumentos [notas.md](https://github.com/olgaleticialopes/java/tree/main/modulo_02/sintaxe/terminal_argumentos)
 
+## 📌 Estruturas de controle:   
+
+* Condicionais [notas.md]()
+* Repetições [notas.md]()
+* Exceções [notas.md]()
+* Arrays [notas.md]()

@@ -28,5 +28,9 @@
 
 - Exercício Java #02 - [Simulação de conta via terminal](https://github.com/olgaleticialopes/java/tree/main/modulo_02/simulando_conta/simular-conta/src)
 
+- ### 🔗 Exercicios 03
+
+- Exercício Java #03 - [Validação de processo seletivo](https://github.com/olgaleticialopes/java/tree/main/modulo_02/validação_processo_seletivo/validacao/src)
+
 ## 📝 SItes Importantes
 * Java Basico: [link](https://glysns.gitbook.io/java-basico/)
