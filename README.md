@@ -32,5 +32,13 @@
 
 - Exercício Java #03 - [Validação de processo seletivo](https://github.com/olgaleticialopes/java/tree/main/modulo_02/validação_processo_seletivo/validacao/src)
 
+
+## 🤖 Lista de desafios
+
+### 🔗 Desafios 01
+
+- Desafio Java #01 - [descrição]()
+
+
 ## 📝 SItes Importantes
 * Java Basico: [link](https://glysns.gitbook.io/java-basico/)
