@@ -1,3 +1,48 @@
+## Conceito de POO
+
+Você já ouviu falar a expressão, linguagem de baixo e de alto nível?
+À medida que a tecnologia vem evoluindo, as linguagens de programação também, e é esta transição natural, que determina, quando estamos nos referindo a linguagem de baixo e alto nível.<br>
+
+* Baixo nível: São linguagens que estão mais próximas, da interpretação da máquina, diante do algoritmo desenvolvido. Exemplo: Linguagem Assembly e C.<br>
+* Alto nível: São linguagens que disponibilizam, uma proposta de sintaxe (forma de escrever processos para serem executados pelo computador) mais próxima de interpretação humana. Exemplo: Java, JavaScript, Python e C++<br>
+Exemplo de um simples Hello World em *Assembly* versus *Python*:
+
+*  Assembly
+~~~~assembly
+section	.text
+​
+   global _start   
+​
+_start: 
+​
+   mov	edx, len  
+​
+   mov	ecx, msg  
+​
+   mov	ebx, 1 
+​
+   mov	eax, 4  
+​
+   int	0x80   
+​
+   mov	eax, 1 
+​
+   int	0x80   
+​
+section	.data
+​
+msg	db	'Hello, world!',0xa
+​
+len	equ	$ - msg
+~~~~
+
+*   Python
+
+~~~~python
+print("Hello World")
+~~~~
+
+É bem notória a diferença, entre as duas perspectivas de linguagem.
 
 
 ### Programação estruturada
