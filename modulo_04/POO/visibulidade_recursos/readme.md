@@ -196,3 +196,29 @@ public class Estabelecimento {
 }
 ~~~
 
+### Modificador default
+
+O modificador *default*, está fortemente associado a organização das classes por pacotes, algumas implementações, não precisam estar disponíveis por todo o projeto, e este modificador de acesso, restringe a visibilidade por pacotes.
+Dentro do pacote *lanchonete*, iremos criar dois sub-pacotes para representar a divisão do estabelecimento.
+
+* *lanchonete.atendimento.cozinha*: Pacote que contém classes, da parte da cozinha da lanchonete e atendimentos.
+* *lanchonete.area.cliente*: Pacote que contém classes, relacionadas ao espaço do cliente.
+
+<img src="https://3025166959-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FjFR9F4NToQ6FD39fU3wC%2Fuploads%2Fgit-blob-1fdf089ebb01ef7239344fbeae3dbf9ca71c1db0%2Fpacotes.png?alt=media">
+
+Para definir um método visível a nível de pacote, basta NÃO declarar nenhum modificador, exemplo:
+
+~~~java
+// Cozinheiro.java
+
+//público
+public void lavarIngredientes() {
+   System.out.println("LAVANDO INGREDIENTES");
+}
+
+//nível de pacote
+//sem nenhuma palavra reservada de acesso
+void lavarIngredientes() {
+   System.out.println("LAVANDO INGREDIENTES");
+}
+~~~
