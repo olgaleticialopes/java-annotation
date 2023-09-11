@@ -12,32 +12,21 @@
 
 * Anotações do modulo 1, Principios do desenvolvimento de software: [nota.md](https://github.com/olgaleticialopes/java/blob/main/modulo_01/readme.md)
 * Anotações do modulo 2, Conhecendo a linguagem Java: [nota.md](https://github.com/olgaleticialopes/java/blob/main/modulo_02/readme.md)
-* Anotações do modulo 3, Resolvendo os primeiros desafios de codigo: [nota.md]()
+* Anotações do modulo 3, Resolvendo os primeiros desafios de codigo: [nota.md](https://github.com/olgaleticialopes/java/tree/main/modulo_03)
 * Anotações do modulo 4, POO em Java: [nota.md]()
 * Anotações do modulo 5, Praticando abstração no domínio bancario: [nota.md]()
 * Anotações do modulo 6, Primeirros passos em SQL e NOSQL: [nota.md]()
 * Anotações do modulo 7, Ganhando produtividade com spring framework e Java: [nota.md]()
 
-## 🤖 Lista de Exercicios
-
-### 🔗 Exercicios 01
-
-- Exercício Java #01 - [SmartTV](https://github.com/olgaleticialopes/java/tree/main/modulo_02/metodos/metodos02/SmartTV)
-
-- ### 🔗 Exercicios 02
-
-- Exercício Java #02 - [Simulação de conta via terminal](https://github.com/olgaleticialopes/java/tree/main/modulo_02/simulando_conta/simular-conta/src)
-
-- ### 🔗 Exercicios 03
-
-- Exercício Java #03 - [Validação de processo seletivo](https://github.com/olgaleticialopes/java/tree/main/modulo_02/validação_processo_seletivo/validacao/src)
-
-
 ## 🤖 Lista de desafios
 
-### 🔗 Desafios 01
+### 🔗 Modulo 03
 
-- Desafio Java #01 - [descrição]()
+- Exercícios #01 - [Link]()
+
+### 🔗 Modulo 05
+
+- Exercícios #01 - [Link]()
 
 
 ## 📝 SItes Importantes
