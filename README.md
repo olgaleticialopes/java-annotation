@@ -22,7 +22,7 @@
 
 ### 🔗 Modulo 03
 
-- Exercícios #01 - [Link]()
+- Exercícios #01 - [Link](https://github.com/olgaleticialopes/java/blob/main/modulo_03/readme.md)
 
 ### 🔗 Modulo 05
 
