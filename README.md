@@ -26,7 +26,7 @@
 
 ### 🔗 Modulo 05
 
-- Exercícios #01 - [Link]()
+- Exercícios #01 - [Link](https://github.com/olgaleticialopes/java/blob/main/modulo_05/readme.md)
 
 
 ## 📝 SItes Importantes
