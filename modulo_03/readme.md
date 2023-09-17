@@ -19,3 +19,5 @@
 - ### 🔗 Exercicios 05
 
 - Exercício Java #05 - [Organizando Ativos](https://github.com/olgaleticialopes/java/tree/main/modulo_03/OrganizandoAtivos/OrganizandoAtivos)
+
+- ### 🔗 Exercicios 06
