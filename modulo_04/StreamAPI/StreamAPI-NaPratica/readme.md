@@ -1,4 +1,4 @@
-# Functional Interface
+# 📌 Functional Interface
 
 Qualquer interface com um SAM (Single Abstract Method) é uma interface funcional e sua implementação pode ser tratada
 como
@@ -251,10 +251,3 @@ public class BinaryOperatorExample {
 > apenas uma vez.
 
 ---
-
-### Referências:
-
-[1] "Java 8 Functional Interfaces." Baeldung. Disponível em: https://www.baeldung.com/java-8-functional-interfaces.
-
-[2] "Como utilizar uma classe anônima em Java." FAQ CartX. Disponível
-em: https://faqcartx.info/programa%C3%A7%C3%A3o/40977-como-utilizar-uma-classe-an%C3%B4nima-em-java.html.

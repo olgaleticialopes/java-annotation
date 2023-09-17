@@ -1,10 +1,10 @@
 <div align=center>
 
-## Programação Imperativa X Programação Desclarativa
+## 📌 Programação Imperativa X Programação Desclarativa
 
 </div>
 
-# Ganhando Produtividade com Stream API e Java
+# 📌 Ganhando Produtividade com Stream API e Java
 
 - A Streams API traz uma nova opção para a manipulação de coleções em Java seguindo os princípios da programação funcional.
 - Stream, trata-se de uma poderosa solução para processar coleções de maneira declarativa, ao invés da tradicional e burocrática forma imperativa.
@@ -91,7 +91,7 @@ Exemplo: `stream.min(Comparator.naturalOrder())` ou `stream.max(Comparator.natur
 - `reduce(T identity, BinaryOperator<T> accumulator)`: Combina os elementos da Stream usando o acumulador especificado e retorna o resultado final.
 Exemplo: `stream.reduce(0, (a, b) -> a + b)`
 
-### Lambda
+### 🔗 Lambda
 
 - As expressões lambda permitem representar interfaces funcionais (interfaces com um único método abstrato) de forma mais concisa e possibilitam escrever código no estilo funcional.
 - As interfaces funcionais desempenham um papel crucial na programação funcional em Java, pois servem de base para o uso de expressões lambda.
@@ -121,7 +121,7 @@ public class OrdenacaoPessoa {
 }
 ```
 
-### Method Reference
+### 🔗 Method Reference
 
 - Method Reference é um novo recurso do Java 8 que permite fazer referência a um método ou construtor de uma classe (de forma
 funcional) e assim indicar que ele deve ser utilizado num ponto específico do código, deixando-o mais simples e legível.
