@@ -30,4 +30,3 @@
 * Exceções [notas.md]()
 * Arrays [notas.md]()
 
-...
