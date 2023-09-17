@@ -64,3 +64,5 @@ Os dados podem variar muito entre os diversos SGBD, os mais comuns são:
 * IN (dentro)
 * And (e)
 * OR (ou)
+
+#### Comando SELECT - clausulas:
