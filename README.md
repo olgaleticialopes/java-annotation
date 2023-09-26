@@ -16,7 +16,7 @@
 * Anotações do modulo 4, POO em Java: [nota.md](https://github.com/olgaleticialopes/java/tree/main/modulo_04)
 * Anotações do modulo 5, Praticando abstração no domínio bancario: [nota.md](https://github.com/olgaleticialopes/java/tree/main/modulo_05)
 * Anotações do modulo 6, Primeirros passos em SQL e NOSQL: [nota.md](https://github.com/olgaleticialopes/java/blob/main/modulo_06/readme.md)
-* Anotações do modulo 7, Ganhando produtividade com spring framework e Java: [nota.md](https://github.com/olgaleticialopes/java/blob/main/modulo_07/readme.md)
+* Anotações do modulo 7, Ganhando produtividade com spring framework e Java: [nota.md](https://github.com/olgaleticialopes/java/blob/main/modulo_07/readme.md
 
 ## 🤖 Lista de desafios
 
