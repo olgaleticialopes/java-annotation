@@ -39,6 +39,8 @@ Explorando alguns padrões de projetos com Spring:
 
 ####   Praticando com java e Spring  Padroes de um projeto em API REST  
 
+URL para teste do código;
+http://localhost:8080/swagger-ui/index.html
 
 ### 📚  Desafio de projeto
 
