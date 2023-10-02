@@ -1,10 +1,10 @@
-package dio.dio.spring.security.jwt;
+package dio.diospringsegurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DioSpringSecurityJwtApplicationTests {
+class DioSpringSegurityApplicationTests {
 
 	@Test
 	void contextLoads() {
