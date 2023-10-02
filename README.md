@@ -29,5 +29,15 @@
 - Exercícios #01 - [Link](https://github.com/olgaleticialopes/java/blob/main/modulo_05/readme.md)
 
 
+## 📝 Desafios de projeto: 
+
+### 🔗 Modulo 07: 
+
+- Desafio #01 - [API Rest]()
+- Desafio #02 - [API Rest Spring Security]()
+- Desafio #03 - [Explorando padroes de projetos]()
+- Desafio #04 - [Publicando API REST em cloud, SpringBoot 3, Java 17 e Railway]()
+
+
 ## 📝 SItes Importantes
 * Java Basico: [link](https://glysns.gitbook.io/java-basico/)
