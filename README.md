@@ -1,43 +1,42 @@
-
 <h1 align="center">
-🌺 <br> Curso back-end Java
+🌺 <br> Java back-end course
 </h1>
 
 
-## 📚 Sobre 
-> Repositorio com anotações e Exercicios sobre minhas aulas do bootcamp santander, backend em java. 
+## 📚 About
+> Repository with notes and exercises about my Santander bootcamp classes, backend in Java.
 <br>
 
-## 📝 Anotações Importantes
+## 📝 Important Notes
 
-* Anotações do modulo 1, Principios do desenvolvimento de software: [nota.md](https://github.com/olgaleticialopes/java/blob/main/modulo_01/readme.md)
-* Anotações do modulo 2, Conhecendo a linguagem Java: [nota.md](https://github.com/olgaleticialopes/java/blob/main/modulo_02/readme.md)
-* Anotações do modulo 3, Resolvendo os primeiros desafios de codigo: [nota.md](https://github.com/olgaleticialopes/java/tree/main/modulo_03)
-* Anotações do modulo 4, POO em Java: [nota.md](https://github.com/olgaleticialopes/java/tree/main/modulo_04)
-* Anotações do modulo 5, Praticando abstração no domínio bancario: [nota.md](https://github.com/olgaleticialopes/java/tree/main/modulo_05)
-* Anotações do modulo 6, Primeirros passos em SQL e NOSQL: [nota.md](https://github.com/olgaleticialopes/java/blob/main/modulo_06/readme.md)
-* Anotações do modulo 7, Ganhando produtividade com spring framework e Java: [nota.md](https://github.com/olgaleticialopes/java/blob/main/modulo_07/readme.md)
+* Notes from module 1, Principles of software development: [nota.md](https://github.com/olgaleticialopes/java/blob/main/modulo_01/readme.md)
+* Notes from module 2, Knowing the Java language: [nota.md](https://github.com/olgaleticialopes/java/blob/main/modulo_02/readme.md)
+* Notes from module 3, Solving the first code challenges: [nota.md](https://github.com/olgaleticialopes/java/tree/main/modulo_03)
+* Notes from module 4, OOP in Java: [nota.md](https://github.com/olgaleticialopes/java/tree/main/modulo_04)
+* Notes from module 5, Practicing abstraction in the banking domain: [nota.md](https://github.com/olgaleticialopes/java/tree/main/modulo_05)
+* Notes from module 6, First steps in SQL and NOSQL: [nota.md](https://github.com/olgaleticialopes/java/blob/main/modulo_06/readme.md)
+* Notes from module 7, Gaining productivity with spring framework and Java: [nota.md](https://github.com/olgaleticialopes/java/blob/main/modulo_07/readme.md)
 
-## 🤖 Lista de desafios
+## 🤖 List of challenges
 
-### 🔗 Modulo 03
+### 🔗 Module 03
 
-- Exercícios #01 - [Link](https://github.com/olgaleticialopes/java/blob/main/modulo_03/readme.md)
+- Exercises #01 - [Link](https://github.com/olgaleticialopes/java/blob/main/modulo_03/readme.md)
 
-### 🔗 Modulo 05
+### 🔗 Module 05
 
-- Exercícios #01 - [Link](https://github.com/olgaleticialopes/java/blob/main/modulo_05/readme.md)
-
-
-## 📝 Desafios de projeto: 
-
-### 🔗 Modulo 07: 
-
-- Desafio #01 - [API Rest]()
-- Desafio #02 - [API Rest Spring Security]()
-- Desafio #03 - [Explorando padroes de projetos]()
-- Desafio #04 - [Publicando API REST em cloud, SpringBoot 3, Java 17 e Railway]()
+- Exercises #01 - [Link](https://github.com/olgaleticialopes/java/blob/main/modulo_05/readme.md)
 
 
-## 📝 SItes Importantes
-* Java Basico: [link](https://glysns.gitbook.io/java-basico/)
+## 📝 Project Challenges:
+
+### 🔗 Module 07:
+
+- Challenge #01 - [Rest API]()
+- Challenge #02 - [Rest Spring Security API]()
+- Challenge #03 - [Exploring design patterns]()
+- Challenge #04 - [Publishing REST API in cloud, SpringBoot 3, Java 17 and Railway]()
+
+
+## 📝 Important Websites
+* Java Basic: [link](https://glysns.gitbook.io/java-basico/)
